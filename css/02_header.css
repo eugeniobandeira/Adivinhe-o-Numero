@@ -1,0 +1,22 @@
+header {
+    background: url('https://media3.giphy.com/media/sULKEgDMX8LcI/giphy.gif?cid=ecf05e478qf6tab3osv0ay6twgk6e7funs7nqrnsyz5408yw&rid=giphy.gif&ct=g');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px;  
+  }
+  header h1, header h3 {
+    padding: 0;
+    margin: 0;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.521);
+    text-align: center;
+  }
+  header h1 {
+    font-size: 3rem;
+  }

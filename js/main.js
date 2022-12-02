@@ -12,7 +12,6 @@ const spanCorrelacao = document.getElementById('span__correlacao')
 
 function init() {
     computerNumber = Math.floor(Math.random() * 100 + 1)
-    console.log(computerNumber)
 }
 
 function newGame() {
@@ -39,12 +38,12 @@ function compareNumbers () {
     
     if (contador > 0) {
         if (userNumber > computerNumber) {
-            textOutput.innerHTML = 'Seu número é maior 😐😐'
+            textOutput.innerHTML = 'Seu número é maior 😐'
             inputBox.value = ''
             attempts --
             document.getElementById('attempts').innerHTML = contador
         } else if (userNumber < computerNumber) {
-            textOutput.innerHTML = 'Seu número é menor 🥶🥶'
+            textOutput.innerHTML = 'Seu número é menor 🥶'
             inputBox.value = ''
             attempts --
             document.getElementById('attempts').innerHTML = contador

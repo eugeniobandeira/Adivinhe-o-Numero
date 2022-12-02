@@ -1,0 +1,35 @@
+.button-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  button {
+    border: none;
+    cursor: pointer;
+    background: var(--green);
+    /* padding: 2rem 6rem; */
+    padding: 1rem 3rem;
+    border-radius: 1rem 1rem 0 0;
+    font-size: 1.4rem;
+  }
+  
+  #newGameButton[type='button'] {
+    border-radius: 18px;
+    font-weight: 500;
+    opacity: 1;
+    font-family: inherit;
+    font-weight: 500;
+    color: #fff;
+    background: linear-gradient(90deg, #143C19, #000201, #000201);
+  }
+  #newGameButton[type='button']:hover {
+    opacity: .9;
+  }
+
+  button:last-child {
+    background: var(--red);
+    border-radius: 0 0 1rem 1rem;
+  }
+  #newGameButton {
+    border-radius: 0;
+  }
