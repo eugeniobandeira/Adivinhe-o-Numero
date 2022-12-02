@@ -7,6 +7,10 @@ Para jogar, você só precisa informar um número e apertar entre, em seguinda, 
 
 - [@eugeniobandeira](https://github.com/eugeniobandeira)
 
+## Demonstração
+
+https://user-images.githubusercontent.com/112191399/205321704-88a0e630-afe4-444e-90d1-e8238f556c14.mp4
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eugeniobandeira.github.io/Adivinhe-o-Numero/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugeniosb/)
@@ -22,3 +26,7 @@ Para jogar, você só precisa informar um número e apertar entre, em seguinda, 
 ## Feedback
 
 Se você tiver algum feedback, entre em contato comigo através do email eugeniobandeira00@gmail.com
+
+
+
+
