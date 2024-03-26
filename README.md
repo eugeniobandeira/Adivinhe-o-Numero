@@ -1,7 +1,7 @@
 # Jogo de Adivinhação
 
 Você é bom em jogo de adivinhação? Teste os seus conhecimentos.
-Para jogar, você só precisa informar um número e apertar entre, em seguinda, o Matrix retornará se o seu palpite é igual ao que ele pensou.
+Para jogar, você só precisa informar um número e apertar enter, em seguinda, o Matrix retornará se o seu palpite é igual ao que ele pensou.
 
 ## Autor
 
